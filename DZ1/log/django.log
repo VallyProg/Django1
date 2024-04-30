@@ -77,3 +77,12 @@ WARNING 2024-04-27 12:43:14,641 basehttp 8232 17572 "GET /prefix/about/ HTTP/1.1
 WARNING 2024-04-27 12:43:23,127 log 8232 17572 Not Found: /about/
 WARNING 2024-04-27 12:43:23,127 basehttp 8232 17572 "GET /about/ HTTP/1.1" 404 2426
 INFO 2024-04-27 12:43:26,700 basehttp 8232 17572 "GET /about_me/ HTTP/1.1" 200 227
+INFO 2024-04-30 17:50:16,413 autoreload 16872 18368 Watching for file changes with StatReloader
+INFO 2024-04-30 17:50:17,847 basehttp 16872 14816 "GET / HTTP/1.1" 200 216
+WARNING 2024-04-30 17:50:18,237 log 16872 14816 Not Found: /favicon.ico
+WARNING 2024-04-30 17:50:18,238 basehttp 16872 14816 "GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2024-04-30 18:06:29,717 autoreload 5528 4468 Watching for file changes with StatReloader
+INFO 2024-04-30 18:10:03,734 autoreload 6832 19448 Watching for file changes with StatReloader
+INFO 2024-04-30 18:10:05,984 basehttp 6832 15320 "GET / HTTP/1.1" 200 216
+WARNING 2024-04-30 18:10:06,141 log 6832 15320 Not Found: /favicon.ico
+WARNING 2024-04-30 18:10:06,142 basehttp 6832 15320 "GET /favicon.ico HTTP/1.1" 404 2567
