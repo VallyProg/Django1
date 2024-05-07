@@ -1,0 +1,88 @@
+INFO 2024-04-20 15:41:41,696 autoreload 4708 8560 Watching for file changes with StatReloader
+INFO 2024-04-20 15:45:57,624 autoreload 2056 11608 Watching for file changes with StatReloader
+INFO 2024-04-20 15:50:41,716 autoreload 14292 3584 Watching for file changes with StatReloader
+INFO 2024-04-20 15:54:17,699 autoreload 5388 12212 Watching for file changes with StatReloader
+INFO 2024-04-20 15:59:36,652 autoreload 2748 1756 Watching for file changes with StatReloader
+INFO 2024-04-20 16:00:06,632 autoreload 2748 1756 C:\Django1\DZ1\DZ1\settings.py changed, reloading.
+INFO 2024-04-20 16:00:07,210 autoreload 11644 7400 Watching for file changes with StatReloader
+INFO 2024-04-20 16:01:40,210 autoreload 11644 7400 C:\Django1\DZ1\DZ1\settings.py changed, reloading.
+INFO 2024-04-20 16:01:40,771 autoreload 5872 2560 Watching for file changes with StatReloader
+INFO 2024-04-20 16:05:01,678 autoreload 5872 2560 C:\Django1\DZ1\MySite\views.py changed, reloading.
+INFO 2024-04-20 16:05:02,219 autoreload 13968 5896 Watching for file changes with StatReloader
+INFO 2024-04-20 16:05:04,456 basehttp 13968 13824 "GET / HTTP/1.1" 200 70
+WARNING 2024-04-20 16:05:04,779 log 13968 13824 Not Found: /favicon.ico
+WARNING 2024-04-20 16:05:04,780 basehttp 13968 13824 "GET /favicon.ico HTTP/1.1" 404 2441
+WARNING 2024-04-20 16:05:48,046 log 13968 13824 Not Found: /about/
+WARNING 2024-04-20 16:05:48,047 basehttp 13968 13824 "GET /about/ HTTP/1.1" 404 2426
+INFO 2024-04-20 16:05:51,821 basehttp 13968 13824 "GET /about_me HTTP/1.1" 301 0
+INFO 2024-04-20 16:05:51,828 basehttp 13968 15296 "GET /about_me/ HTTP/1.1" 200 27
+INFO 2024-04-20 16:06:29,519 autoreload 13968 5896 C:\Django1\DZ1\MySite\views.py changed, reloading.
+INFO 2024-04-20 16:06:30,071 autoreload 5188 14708 Watching for file changes with StatReloader
+INFO 2024-04-20 16:06:32,906 basehttp 5188 14936 "GET /about_me/ HTTP/1.1" 200 121
+INFO 2024-04-20 16:06:46,163 autoreload 5188 14708 C:\Django1\DZ1\MySite\views.py changed, reloading.
+INFO 2024-04-20 16:06:46,726 autoreload 1068 4616 Watching for file changes with StatReloader
+INFO 2024-04-20 16:18:38,291 autoreload 8308 15624 Watching for file changes with StatReloader
+INFO 2024-04-20 16:18:40,392 basehttp 8308 5936 "GET / HTTP/1.1" 200 10
+WARNING 2024-04-20 16:18:51,120 log 8308 5936 Not Found: /prefix/
+WARNING 2024-04-20 16:18:51,121 basehttp 8308 5936 "GET /prefix/ HTTP/1.1" 404 2429
+WARNING 2024-04-20 16:18:57,364 log 8308 5936 Not Found: /about/
+WARNING 2024-04-20 16:18:57,364 basehttp 8308 5936 "GET /about/ HTTP/1.1" 404 2426
+INFO 2024-04-20 16:19:00,661 basehttp 8308 5936 "GET /about_me/ HTTP/1.1" 200 10
+INFO 2024-04-20 16:19:24,278 autoreload 8308 15624 C:\Django1\DZ1\MySite\views.py changed, reloading.
+INFO 2024-04-20 16:19:24,827 autoreload 16540 16544 Watching for file changes with StatReloader
+INFO 2024-04-20 16:19:28,067 basehttp 16540 16572 "GET /about_me/ HTTP/1.1" 200 563
+INFO 2024-04-20 16:21:15,777 autoreload 16540 16544 C:\Django1\DZ1\MySite\views.py changed, reloading.
+INFO 2024-04-20 16:21:16,323 autoreload 17360 17344 Watching for file changes with StatReloader
+INFO 2024-04-20 16:21:19,630 basehttp 17360 16632 "GET /about_me/ HTTP/1.1" 200 600
+INFO 2024-04-20 16:21:43,737 autoreload 17360 17344 C:\Django1\DZ1\MySite\views.py changed, reloading.
+INFO 2024-04-20 16:21:44,282 autoreload 17056 17052 Watching for file changes with StatReloader
+INFO 2024-04-20 16:21:44,746 basehttp 17056 16256 "GET /about_me/ HTTP/1.1" 200 601
+INFO 2024-04-20 16:22:13,586 autoreload 17056 17052 C:\Django1\DZ1\MySite\views.py changed, reloading.
+INFO 2024-04-20 16:22:14,139 autoreload 16428 15468 Watching for file changes with StatReloader
+INFO 2024-04-20 16:22:14,859 basehttp 16428 11728 "GET /about_me/ HTTP/1.1" 200 603
+INFO 2024-04-20 16:22:15,528 basehttp 16428 11728 "GET /about_me/ HTTP/1.1" 200 603
+INFO 2024-04-20 16:22:16,040 basehttp 16428 11728 "GET /about_me/ HTTP/1.1" 200 603
+INFO 2024-04-20 16:22:16,200 basehttp 16428 11728 "GET /about_me/ HTTP/1.1" 200 603
+INFO 2024-04-20 16:22:51,648 autoreload 16428 15468 C:\Django1\DZ1\MySite\views.py changed, reloading.
+INFO 2024-04-20 16:22:52,225 autoreload 17024 16820 Watching for file changes with StatReloader
+INFO 2024-04-20 16:23:02,913 autoreload 17024 16820 C:\Django1\DZ1\MySite\views.py changed, reloading.
+INFO 2024-04-20 16:23:03,452 autoreload 6192 16124 Watching for file changes with StatReloader
+INFO 2024-04-20 16:23:04,644 basehttp 6192 13708 "GET /about_me/ HTTP/1.1" 200 226
+INFO 2024-04-20 16:23:15,510 basehttp 6192 13708 "GET / HTTP/1.1" 200 3419
+INFO 2024-04-20 16:23:51,292 autoreload 6192 16124 C:\Django1\DZ1\MySite\views.py changed, reloading.
+INFO 2024-04-20 16:23:51,842 autoreload 16208 16588 Watching for file changes with StatReloader
+INFO 2024-04-20 16:25:08,356 autoreload 16208 16588 C:\Django1\DZ1\MySite\views.py changed, reloading.
+INFO 2024-04-20 16:25:08,875 autoreload 9452 15784 Watching for file changes with StatReloader
+INFO 2024-04-20 16:25:50,448 autoreload 9452 15784 C:\Django1\DZ1\MySite\views.py changed, reloading.
+INFO 2024-04-20 16:25:50,980 autoreload 17184 15388 Watching for file changes with StatReloader
+INFO 2024-04-20 16:25:51,276 basehttp 17184 17052 "GET / HTTP/1.1" 200 919
+INFO 2024-04-20 16:26:52,101 autoreload 17184 15388 C:\Django1\DZ1\MySite\views.py changed, reloading.
+INFO 2024-04-20 16:26:52,632 autoreload 13828 15276 Watching for file changes with StatReloader
+INFO 2024-04-20 16:27:05,464 autoreload 8212 17280 Watching for file changes with StatReloader
+INFO 2024-04-20 16:27:06,609 basehttp 8212 2308 "GET / HTTP/1.1" 200 216
+INFO 2024-04-20 16:27:10,493 basehttp 8212 2308 "GET /about_me/ HTTP/1.1" 200 227
+INFO 2024-04-27 11:07:49,858 autoreload 11176 4244 Watching for file changes with StatReloader
+INFO 2024-04-27 11:07:58,841 basehttp 11176 12908 "GET / HTTP/1.1" 200 216
+WARNING 2024-04-27 11:07:59,264 log 11176 12908 Not Found: /favicon.ico
+WARNING 2024-04-27 11:07:59,265 basehttp 11176 12908 "GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2024-04-27 11:11:13,580 autoreload 4928 13012 Watching for file changes with StatReloader
+INFO 2024-04-27 11:11:15,457 basehttp 4928 8876 "GET / HTTP/1.1" 200 216
+INFO 2024-04-27 11:11:25,328 basehttp 4928 8876 "GET /about_me/ HTTP/1.1" 200 227
+INFO 2024-04-27 11:22:18,496 autoreload 1360 10612 Watching for file changes with StatReloader
+INFO 2024-04-27 11:22:19,676 basehttp 1360 11700 "GET / HTTP/1.1" 200 216
+INFO 2024-04-27 12:43:02,595 autoreload 8232 20060 Watching for file changes with StatReloader
+INFO 2024-04-27 12:43:03,590 basehttp 8232 17572 "GET / HTTP/1.1" 200 216
+WARNING 2024-04-27 12:43:14,640 log 8232 17572 Not Found: /prefix/about/
+WARNING 2024-04-27 12:43:14,641 basehttp 8232 17572 "GET /prefix/about/ HTTP/1.1" 404 2447
+WARNING 2024-04-27 12:43:23,127 log 8232 17572 Not Found: /about/
+WARNING 2024-04-27 12:43:23,127 basehttp 8232 17572 "GET /about/ HTTP/1.1" 404 2426
+INFO 2024-04-27 12:43:26,700 basehttp 8232 17572 "GET /about_me/ HTTP/1.1" 200 227
+INFO 2024-04-30 17:50:16,413 autoreload 16872 18368 Watching for file changes with StatReloader
+INFO 2024-04-30 17:50:17,847 basehttp 16872 14816 "GET / HTTP/1.1" 200 216
+WARNING 2024-04-30 17:50:18,237 log 16872 14816 Not Found: /favicon.ico
+WARNING 2024-04-30 17:50:18,238 basehttp 16872 14816 "GET /favicon.ico HTTP/1.1" 404 2441
+INFO 2024-04-30 18:06:29,717 autoreload 5528 4468 Watching for file changes with StatReloader
+INFO 2024-04-30 18:10:03,734 autoreload 6832 19448 Watching for file changes with StatReloader
+INFO 2024-04-30 18:10:05,984 basehttp 6832 15320 "GET / HTTP/1.1" 200 216
+WARNING 2024-04-30 18:10:06,141 log 6832 15320 Not Found: /favicon.ico
+WARNING 2024-04-30 18:10:06,142 basehttp 6832 15320 "GET /favicon.ico HTTP/1.1" 404 2567
