@@ -86,3 +86,8 @@ INFO 2024-04-30 18:10:03,734 autoreload 6832 19448 Watching for file changes wit
 INFO 2024-04-30 18:10:05,984 basehttp 6832 15320 "GET / HTTP/1.1" 200 216
 WARNING 2024-04-30 18:10:06,141 log 6832 15320 Not Found: /favicon.ico
 WARNING 2024-04-30 18:10:06,142 basehttp 6832 15320 "GET /favicon.ico HTTP/1.1" 404 2567
+INFO 2024-05-10 20:26:52,732 autoreload 13996 16328 Watching for file changes with StatReloader
+INFO 2024-05-10 20:29:24,917 autoreload 8764 10092 Watching for file changes with StatReloader
+INFO 2024-05-10 20:30:38,402 autoreload 8764 10092 C:\Django1\DZ1\DZ1\settings.py changed, reloading.
+INFO 2024-05-10 20:30:39,040 autoreload 14912 9600 Watching for file changes with StatReloader
+INFO 2024-05-10 20:31:10,748 autoreload 8876 6896 Watching for file changes with StatReloader
